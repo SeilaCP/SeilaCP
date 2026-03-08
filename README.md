@@ -4,9 +4,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SEILA%20MANH&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=LLM%20%7C%20Machine%20Learning%20%7C%20Data%20Analysis%20%7C%20Web%20Development&descAlignY=58&descSize=16&animation=fadeIn" />
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
+<!-- <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI+for+Cambodia+🇰🇭;LLM+%26+Machine+Learning+Engineer;Full-Stack+Developer;Data+Analyst+%26+Problem+Solver" alt="Typing SVG" />
-</a>
+</a> -->
 
 <br/>
 
@@ -34,7 +34,7 @@ class SeilaManh:
     email      = "manhseila@gmail.com"
     focus      = ["LLM Engineering", "Machine Learning", "Data Analysis", "Web Dev"]
     currently  = "Building an LLM-powered Cambodia Sales & Service Assistant"
-    languages  = ["Python", "JavaScript", "Go", "C/C++"]
+    languages  = ["Python", "JavaScript", "C/C++"]
     passion    = "Bringing AI innovation to Southeast Asia 🌏"
 ```
 
@@ -43,10 +43,10 @@ class SeilaManh:
 ## 🔥 Featured Project
 
 <a href="https://github.com/SeilaCP/LLM_For_Cambodia_Sale_Service_Assistant">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seilacp&repo=LLM_For_Cambodia_Sale_Service_Assistant&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa" />
+  Ongoing
 </a>
 
-> 🤖 An LLM-powered assistant tailored for Cambodia's sales and service industry — bridging language, culture, and AI.
+> 🤖 An LLM-powered assistant — bridging language, culture, and AI.
 
 ---
 
@@ -65,7 +65,6 @@ class SeilaManh:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### 🗄️ Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -88,8 +87,6 @@ class SeilaManh:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seilacp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seilacp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 </div>
 
 <div align="center">
@@ -98,13 +95,9 @@ class SeilaManh:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=seilacp&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</div>
-
----
+</div> -->
 
 ## 📈 Contribution Graph
 
@@ -122,7 +115,7 @@ class SeilaManh:
   <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/seila-manh">
+<a href="https://www.linkedin.com/in/seila-manh-905ba4309">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
