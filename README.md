@@ -12,7 +12,7 @@
 
 <!-- Profile Views & Social Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=seilacp&label=Profile+Views&color=7c3aed&style=flat-square" alt="profile views" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=seilacp&label=Profile+Views&color=7c3aed&style=flat-square" alt="profile views" /> -->
   <a href="mailto:manhseila@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-manhseila%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
