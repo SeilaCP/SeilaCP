@@ -112,6 +112,115 @@ class SeilaManh:
 
 <div align="center">
 
+## 🎯 Skills Proficiency
+
+<div align="center">
+
+<table>
+<thead>
+<tr>
+<th>Skill</th>
+<th>Level</th>
+<th>Progress</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td><b>🐍 Python</b></td>
+<td>Intermediate</td>
+<td><img src="https://progress-bar.xyz/70/?title=70%25&width=300&color=f59e0b" /></td>
+</tr>
+
+<tr>
+<td><b>🤖 LLM / Prompt Engineering</b></td>
+<td>Intermediate</td>
+<td><img src="https://progress-bar.xyz/65/?title=65%25&width=300&color=f59e0b" /></td>
+</tr>
+
+<tr>
+<td><b>🔥 PyTorch</b></td>
+<td>Intermediate</td>
+<td><img src="https://progress-bar.xyz/60/?title=60%25&width=300&color=f59e0b" /></td>
+</tr>
+
+<tr>
+<td><b>📊 TensorFlow</b></td>
+<td>Fundamental</td>
+<td><img src="https://progress-bar.xyz/45/?title=45%25&width=300&color=f59e0b" /></td>
+</tr>
+
+<tr>
+<td><b>📈 Data Analysis (Pandas / NumPy)</b></td>
+<td>Intermediate</td>
+<td><img src="https://progress-bar.xyz/65/?title=65%25&width=300&color=f59e0b" /></td>
+</tr>
+
+<tr>
+<td><b>⚛️ React</b></td>
+<td>Intermediate</td>
+<td><img src="https://progress-bar.xyz/60/?title=60%25&width=300&color=f59e0b" /></td>
+</tr>
+
+<tr>
+<td><b>🟨 JavaScript</b></td>
+<td>Intermediate</td>
+<td><img src="https://progress-bar.xyz/65/?title=65%25&width=300&color=f59e0b" /></td>
+</tr>
+
+<tr>
+<td><b>🌐 Node.js</b></td>
+<td>Fundamental</td>
+<td><img src="https://progress-bar.xyz/50/?title=50%25&width=300&color=f59e0b" /></td>
+</tr>
+
+<tr>
+<td><b>🎨 HTML / CSS / Tailwind</b></td>
+<td>Intermediate</td>
+<td><img src="https://progress-bar.xyz/70/?title=70%25&width=300&color=f59e0b" /></td>
+</tr>
+
+<tr>
+<td><b>🗄️ SQL / PostgreSQL / MySQL</b></td>
+<td>Intermediate</td>
+<td><img src="https://progress-bar.xyz/65/?title=65%25&width=300&color=f59e0b" /></td>
+</tr>
+
+<tr>
+<td><b>🍃 MongoDB</b></td>
+<td>Fundamental</td>
+<td><img src="https://progress-bar.xyz/45/?title=45%25&width=300&color=f59e0b" /></td>
+</tr>
+
+<tr>
+<td><b>☁️ Google Cloud (GCP)</b></td>
+<td>Fundamental</td>
+<td><img src="https://progress-bar.xyz/35/?title=35%25&width=300&color=f59e0b" /></td>
+</tr>
+
+<tr>
+<td><b>⚙️ C / C++</b></td>
+<td>Intermediate</td>
+<td><img src="https://progress-bar.xyz/60/?title=60%25&width=300&color=f59e0b" /></td>
+</tr>
+
+<tr>
+<td><b>🔧 Git / Bash</b></td>
+<td>Intermediate</td>
+<td><img src="https://progress-bar.xyz/65/?title=65%25&width=300&color=f59e0b" /></td>
+</tr>
+
+<tr>
+<td><b>🎨 Figma / Blender</b></td>
+<td>Basic</td>
+<td><img src="https://progress-bar.xyz/35/?title=35%25&width=300&color=f59e0b" /></td>
+</tr>
+
+</tbody>
+</table>
+
+</div>
+
 ### 💬 Let's Connect & Build Something Amazing Together!
 
 <a href="mailto:manhseila@gmail.com">
