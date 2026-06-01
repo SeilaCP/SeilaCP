@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SEILA%20MANH&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=LLM%20%7C%20Machine%20Learning%20%7C%20Data%20Analysis%20%7C%20Web%20Development&descAlignY=58&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SEILA%20MANH&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=LLM%20%7C%20Machine%20Learning%20%7C%20Game%20Development%20%7C%20Web%20Development&descAlignY=58&descSize=16&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <!-- <a href="https://git.io/typing-svg">
@@ -40,13 +40,12 @@ class SeilaManh:
 
 ---
 
-## 🔥 Featured Project
+## 🔥 Interest
 
-<a href="https://github.com/SeilaCP/LLM_For_Cambodia_Sale_Service_Assistant">
-  Ongoing
-</a>
-
-> 🤖 An LLM-powered assistant — bridging language, culture, and AI.
+- NLP
+- TTS
+- LLM
+- Game Development with Unity and Godot Engine
 
 ---
 
